@@ -1,5 +1,5 @@
 # reto_3_Unico_Y_Genial
-Se ha puesto en práctica la habilidad para generar algoritmos.
+Se ha puesto en práctica la habilidad para generar algoritmos sencillos resolviendo el siguiente problema:
 ## Pregunta
 A partir del algoritmo de identificación de los divisores, plantear la serie de pasos para determinar los números primos hasta un natural n.
 ## Respuesta
